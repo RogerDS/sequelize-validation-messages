@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Make associative array with error messages from SequelizeValidationError class",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bugs": {
+    "url": "https://github.com/RogerDS/sequelize-validation-messages/issues"
   },
   "author": "Roger",
   "license": "ISC",
@@ -12,5 +12,14 @@
     "sequelize",
     "validation",
     "messages"
-  ]
+  ],
+  "files": [
+    "LICENSE",
+    "READMR.md",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RogerDS/sequelize-validation-messages.git"
+  }
 }
